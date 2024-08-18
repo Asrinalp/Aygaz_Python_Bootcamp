@@ -1,7 +1,5 @@
 ## Aygaz_Python_Bootcamp
 # Taş Kağıt Makas Oyunu Python Kodu
-Asrınalp Şahin
-
 
 **Kod Açıklaması**
 Klasik Taş,Kağıt,Makas oyununa ek olarak Türkiye Süper Liginde bulunan 6 takım ile aynı konseptte bir oyun modu daha tasarladım.
@@ -14,3 +12,4 @@ Yani 6 takım dengeli bir şekilde birbirine farklı kombinasyonlar şeklinde ü
 3. Oyun sonunda oyuncu ve bilgisayarın her ikisinin de fikri dikkate alınarak yeni bir oyuna başlanabilir.
 4. Oyun Sayısı ve Tur Sayısı dinamik olarak oyun boyunca ekranda gözükür.
 
+Asrınalp Şahin
