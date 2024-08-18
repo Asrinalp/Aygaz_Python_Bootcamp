@@ -6,7 +6,7 @@ Klasik Taş,Kağıt,Makas oyununa ek olarak Türkiye Süperliginde bulunan 6 tak
 Kullandığım Futbol takımı algoritmasında Mod alma işlemi ile Oyuncu ve Bilgisayarın kazanma şansını eşit tutmaya çalıştım.
 Yani 6 takım dengeli bir şekilde birbirine farklı kombinasyonlar şeklinde üstünlük kurabiliyor.
 
-#Oyun Özellikler
+# Oyun Özellikler
 1. Oyunda kullanıcı 2 farklı oyun modundan birine giriş yapar.
 2. 2 Galibiyet sayısına ulaşan kullanıcı galibiyet elde eder.
 3. Oyun sonunda oyuncu ve bilgisayarın her ikisinin de fikri dikkate alınarak yeni bir oyuna başlanabilir.
